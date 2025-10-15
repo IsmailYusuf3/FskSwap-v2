@@ -11,7 +11,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.0.0",
     "@web3modal/ethereum": "^2.7.1",
-    "@web3modal/react": "^2.7.1", // Replace web3modal with this
+    "@web3modal/react": "^2.7.1",
     "axios": "^1.6.0",
     "ethers": "^6.0.0",
     "framer-motion": "^10.0.0",
