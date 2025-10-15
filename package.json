@@ -11,6 +11,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.0.0",
     "@web3modal/ethereum": "^2.7.1",
+    "@web3modal/react": "^2.7.1", // Replace web3modal with this
     "axios": "^1.6.0",
     "ethers": "^6.0.0",
     "framer-motion": "^10.0.0",
@@ -18,8 +19,7 @@
     "recharts": "^2.0.0",
     "tailwindcss": "^3.0.0",
     "viem": "^2.21.4",
-    "wagmi": "^2.17.5",
-    "web3modal": "^2.0.0"
+    "wagmi": "^2.17.5"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
